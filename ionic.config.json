@@ -1,5 +1,7 @@
 {
   "name": "cartooner",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
